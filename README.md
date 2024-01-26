@@ -1,7 +1,7 @@
 # Tower-creator
 A simple program to make a game
-CSS processor - SCSS
-JS processor- Typescript
+.CSS processor - SCSS
+.JS processor- Typescript
 
 ![image](https://github.com/Coder-5657/Tower-creator/assets/157788773/77ad2b38-43fc-42b1-b87b-426bd124a919)
 
